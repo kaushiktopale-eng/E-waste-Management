@@ -1,7 +1,7 @@
 # E-Waste Management & Recycling System
 
 <p align="center">
-  <img src="poster.png" alt="E-Waste Management & Recycling System Poster" width="800">
+  <img src="E-Waste%20Management%20%26%20Recycling%20System%20Poster.png" alt="E-Waste Management & Recycling System Poster" width="800">
 </p>
 
 ## An Object-Oriented Approach to Sustainable E-Waste Management
